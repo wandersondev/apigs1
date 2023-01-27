@@ -1,0 +1,146 @@
+object Form1: TForm1
+  Left = 308
+  Height = 322
+  Top = 181
+  Width = 573
+  Caption = 'Form1'
+  ClientHeight = 322
+  ClientWidth = 573
+  LCLVersion = '2.2.0.4'
+  object PairSplitter1: TPairSplitter
+    Left = 0
+    Height = 322
+    Top = 0
+    Width = 573
+    Align = alClient
+    Position = 152
+    object PairSplitterSide1: TPairSplitterSide
+      Cursor = crArrow
+      Left = 0
+      Height = 322
+      Top = 0
+      Width = 152
+      ClientWidth = 152
+      ClientHeight = 322
+      object JvXPBar1: TJvXPBar
+        Left = 0
+        Height = 35
+        Top = 0
+        Width = 152
+        Caption = 'JvXPBar1'
+        Items = <>
+        Font.Color = 8650752
+        HeaderFont.Color = 8650752
+        HeaderFont.Style = [fsBold]
+        OwnerDraw = False
+        ShowItemFrame = False
+        RoundedItemFrame = 0
+      end
+    end
+    object PairSplitterSide2: TPairSplitterSide
+      Cursor = crArrow
+      Left = 157
+      Height = 322
+      Top = 0
+      Width = 416
+      ClientWidth = 416
+      ClientHeight = 322
+      object PageControl1: TPageControl
+        Left = 0
+        Height = 122
+        Top = 200
+        Width = 416
+        ActivePage = TabSheet2
+        Align = alClient
+        TabIndex = 1
+        TabOrder = 0
+        object TabSheet1: TTabSheet
+          Caption = 'TabSheet1'
+        end
+        object TabSheet2: TTabSheet
+          Caption = 'TabSheet2'
+        end
+      end
+      object JvNavigationPane1: TJvNavigationPane
+        Left = 0
+        Height = 200
+        Top = 0
+        Width = 416
+        ActivePage = JvNavPanelPage5
+        Align = alTop
+        Background.Stretch = False
+        Background.Proportional = False
+        Background.Center = False
+        Background.Tile = False
+        Background.Transparent = False
+        Caption = 'JvNavigationPane1'
+        MaximizedCount = 5
+        NavPanelFont.Style = [fsBold]
+        NavPanelHotTrackFont.Style = [fsBold]
+        object JvNavPanelPage1: TJvNavPanelPage
+          Left = 0
+          Height = 25
+          Top = 0
+          Width = 416
+          Background.Stretch = False
+          Background.Proportional = False
+          Background.Center = False
+          Background.Tile = False
+          Background.Transparent = False
+        end
+        object JvNavPanelPage2: TJvNavPanelPage
+          Left = 0
+          Height = 25
+          Top = 0
+          Width = 416
+          Background.Stretch = False
+          Background.Proportional = False
+          Background.Center = False
+          Background.Tile = False
+          Background.Transparent = False
+        end
+        object JvNavPanelPage3: TJvNavPanelPage
+          Left = 0
+          Height = 25
+          Top = 0
+          Width = 416
+          Background.Stretch = False
+          Background.Proportional = False
+          Background.Center = False
+          Background.Tile = False
+          Background.Transparent = False
+        end
+        object JvNavPanelPage4: TJvNavPanelPage
+          Left = 0
+          Height = 25
+          Top = 0
+          Width = 416
+          Background.Stretch = False
+          Background.Proportional = False
+          Background.Center = False
+          Background.Tile = False
+          Background.Transparent = False
+        end
+        object JvNavPanelPage5: TJvNavPanelPage
+          Left = 0
+          Height = 25
+          Top = 0
+          Width = 416
+          Background.Stretch = False
+          Background.Proportional = False
+          Background.Center = False
+          Background.Tile = False
+          Background.Transparent = False
+        end
+      end
+    end
+  end
+  object ApplicationProperties1: TApplicationProperties
+    Left = 265
+    Top = 207
+  end
+  object ActionList1: TActionList
+    Left = 276
+    Top = 102
+  end
+end
