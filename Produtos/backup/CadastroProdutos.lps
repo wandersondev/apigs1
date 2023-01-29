@@ -21,7 +21,7 @@
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uFrmCadastroProdutos"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="26"/>
+        <CursorPos X="26" Y="10"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
