@@ -8,10 +8,9 @@
       <Unit>
         <Filename Value="CadastroProdutos.lpr"/>
         <IsPartOfProject Value="True"/>
-        <IsVisibleTab Value="True"/>
         <EditorIndex Value="1"/>
-        <CursorPos X="48" Y="6"/>
-        <UsageCount Value="21"/>
+        <CursorPos X="30" Y="13"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
@@ -21,13 +20,19 @@
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="uFrmCadastroProdutos"/>
-        <CursorPos X="26"/>
-        <UsageCount Value="21"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="26" Y="10"/>
+        <UsageCount Value="22"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory>
+      <Position>
+        <Filename Value="ufrmcadastroprodutos.pas"/>
+        <Caret Column="26"/>
+      </Position>
+    </JumpHistory>
     <RunParams>
       <FormatVersion Value="2"/>
       <Modes ActiveMode=""/>
