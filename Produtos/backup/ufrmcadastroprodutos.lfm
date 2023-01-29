@@ -1,10 +1,10 @@
 object FrmCadastroProdutos: TFrmCadastroProdutos
   Left = 242
-  Height = 416
+  Height = 412
   Top = 186
   Width = 490
   Caption = 'Cadastro de produtos'
-  ClientHeight = 416
+  ClientHeight = 412
   ClientWidth = 490
   Font.CharSet = ANSI_CHARSET
   Font.Height = -16
